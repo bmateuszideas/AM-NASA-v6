@@ -1,0 +1,40 @@
+# Virtualenv
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Test cache
+.pytest_cache/
+
+# Logs
+logs/
+*.log
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# Build / dist
+build/
+dist/
+*.egg-info/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Jupyter / notebooks (na wszelki)
+.ipynb_checkpoints/
+
+# Local env files
+.env
+.env.*
