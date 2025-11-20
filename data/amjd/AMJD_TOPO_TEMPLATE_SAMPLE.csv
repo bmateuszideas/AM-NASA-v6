@@ -1,0 +1,3 @@
+site_name,lon_deg,lat_deg,elev_m,utc_datetime,event,ra_deg,dec_deg,az_deg,el_deg
+Jerusalem,35.235,31.778,800,0033-04-03 14:47:51,LE greatest (UT from GSFC),,,,
+Nineveh,43.13,36.367,220,−0762-06-15 08:14:01,SE greatest (UT from GSFC),,,,

@@ -1,0 +1,7 @@
+event_key,kind,calendar,Y,M,D,TT_greatest,UT_greatest,DeltaT_s,source,note
+SE_-0762-06-15_Assyrian,SE,Julian,-762,6,15,14:07:32,08:14:01.4,21210.6,https://eclipse.gsfc.nasa.gov/SEhistory/SEplot/SE-0762Jun15T.pdf,"Total; GSFC gives TT, UT, ΔT"
+SE_-0584-05-28_Thales,SE,Julian,-584,5,28,19:28:50.3,14:22:26.4,,https://eclipse.gsfc.nasa.gov/SEhistory/SEplot/SE-0584May28T.pdf,Total; classical 'Thales'
+LE_0032-04-14_Total,LE,Julian,32,4,14,11:56:22,09:06:21,,https://www.eclipsewise.com/lunar/LEprime/0001-0100/LE0032Apr14Tprime.html,Total LE; greatest
+LE_0033-04-03_Partial,LE,Julian,33,4,3,17:37:53.1,14:47:51.1,,https://eclipse.gsfc.nasa.gov/LEhistory/LEplot/LE0033Apr03P.pdf,Partial LE; greatest
+SE_1066-03-28_Annular,SE,Julian,1066,3,28,15:41:57,15:21:30,1226.9,https://eclipse.gsfc.nasa.gov/SEsearch/SEdata.php?Ecl=10660328,Annular; ΔT from GSFC
+SN_1006_FirstObs,SN,Julian,1006,5,1,,,,https://chandra.harvard.edu/photo/2013/sn1006/,First sightings ~1006-05-01; use night scan

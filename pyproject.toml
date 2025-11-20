@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "am-nasa-v6"
+version = "0.1.0"
+description = "Silnik kalendarzowo-astronomiczny AM ↔ JD z walidacją na danych NASA/GSFC"
+authors = [
+    {name = "Twoje imię i nazwisko"},
+]
+readme = "README.md"
+requires-python = ">=3.10,<3.13"
+license = {text = "MIT"}
+
+dependencies = [
+    "fastapi>=0.115",
+    "uvicorn[standard]>=0.30",
+    "numpy>=1.26",
+    "pandas>=2.0",
+    "skyfield>=1.49",
+    "jplephem>=2.21",
+    "requests>=2.32",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "black>=24.0",
+    "mypy>=1.0",
+]
+
+[tool.pytest.ini_options]
+pythonpath = [
+    "src"
+]
+testpaths = [
+    "tests",
+]

@@ -1,0 +1,68 @@
+am_from_code_adjusted,calendar,civil_date,delta_am_days,jd_ut,jd_ut_source,julian_date,key,kind,label,raw_present,raw_source_group,status_am,status_jd,topo_lunar_sites,topo_lunar_visible,topo_solar_sites,topo_solar_visible,volcano_date_mode,volcano_name,volcano_vei
+,julian,,,1442902.8430717592,gsfc_master,,AssyrianEclipse,SE,,False,,,,0,0,0,0,,,
+,Julian,,,1720033.52852,master_validated,-0003-03-13,E1_4BCE_LunarEcl,,Lunar eclipse (partial) — 13 Mar 4 BCE (astronomical year −0003),False,,NA,NA,30,0,0,0,,,
+,Julian,,,1732849.87944,master_validated,0032-04-14,E2_32CE_LunarEcl,,Lunar eclipse (total) — 14 Apr 32 CE,False,,NA,NA,30,0,0,0,,,
+,Julian,,,1733204.11656,master_validated,0033-04-03,E3_33CE_LunarEcl,,Lunar eclipse (partial) — 3 Apr 33 CE,False,,NA,NA,30,0,0,0,,,
+,Julian,,,,,0066-01-26,E4_Halley66CE,,Halley’s Comet — perihelion AD 66 (historical reconstructions),False,,NA,NA,0,0,0,0,,,
+,Julian,,,,,1054-07-04,E5_SN1054,,SN 1054 (Crab) — first sighting in Chinese records,False,,NA,NA,0,0,0,0,,,
+-4349.0,,,0.0,1717317.5,master_validated,,HALLEY_-0011_peri,,1P/Halley — perihelion (date-only) — 5 Oct 12 BCE,False,,OK,NA,0,0,0,0,,,
+-87722.0,,,0.0,1633944.5,master_validated,,HALLEY_-0239_midyear,,1P/Halley — earliest Shiji record (year-only; mid‑year placeholder),False,,OK,WARN,0,0,0,0,,,
+388829.0,,,0.0,2110495.5,master_validated,,HALLEY_1066_peri,,1P/Halley — perihelion (date-only) — 23 Mar 1066,False,,OK,NA,0,0,0,0,,,
+417784.0,,,0.0,2139450.5,master_validated,,HALLEY_1145_midyear,,1P/Halley — apparition year 1145 (year‑only; mid‑year placeholder),False,,OK,WARN,0,0,0,0,,,
+445908.0,,,0.0,2167574.5,master_validated,,HALLEY_1222_midyear,,1P/Halley — apparition year 1222 (year‑only; mid‑year placeholder),False,,OK,WARN,0,0,0,0,,,
+474763.0,,,0.0,2196429.5,master_validated,,HALLEY_1301_midyear,,1P/Halley — apparition year 1301 (year‑only; mid‑year placeholder),False,,OK,WARN,0,0,0,0,,,
+531377.0,,,0.0,2253043.5,master_validated,,HALLEY_1456_midyear,,1P/Halley — apparition year 1456 (year‑only; mid‑year placeholder),False,,OK,WARN,0,0,0,0,,,
+558770.0,,,0.0,2280436.5,master_validated,,HALLEY_1531_midyear,,1P/Halley — apparition year 1531 (year‑only; mid‑year placeholder),False,,OK,WARN,0,0,0,0,,,
+586529.0,,,0.0,2308195.5,master_validated,,HALLEY_1607_midyear,,1P/Halley — apparition year 1607 (year‑only; mid‑year placeholder),False,,OK,WARN,0,0,0,0,,,
+613923.0,,,0.0,2335589.5,master_validated,,HALLEY_1682_midyear,,1P/Halley — apparition year 1682 (year‑only; mid‑year placeholder),False,,OK,WARN,0,0,0,0,,,
+642047.0,,,0.0,2363713.5,master_validated,,HALLEY_1759_midyear,,1P/Halley — apparition year 1759 (year‑only; mid‑year placeholder),False,,OK,WARN,0,0,0,0,,,
+305287.0,,,0.0,2026953.5,master_validated,,HALLEY_837_midyear,,1P/Halley — apparition year 837 (year‑only; mid‑year placeholder),False,,OK,WARN,0,0,0,0,,,
+332681.0,,,0.0,2054347.5,master_validated,,HALLEY_912_midyear,,1P/Halley — apparition year 912 (year‑only; mid‑year placeholder),False,,OK,WARN,0,0,0,0,,,
+360805.0,,,0.0,2082471.5,master_validated,,HALLEY_989_midyear,,1P/Halley — apparition year 989 (year‑only; mid‑year placeholder),False,,OK,WARN,0,0,0,0,,,
+-600.0,,,0.0,1721066.5,master_validated,,LE_0000_01_10,,Lunar eclipse — 10 Jan 1 BCE (astronomical year 0) — date‑only,False,,OK,WARN,30,0,0,0,,,
+,julian,,,1726264.5751388888,gsfc_master,,LE_0014_04_04,LE,,False,,,,0,0,0,0,,,
+,,,,,,,LE_0032-04-14_Total,,,True,TOPO,,,0,0,0,0,,,
+,julian,,,1732849.8794444446,gsfc_master,,LE_0032_04_14,LE,,False,,,,0,0,0,0,,,
+,julian,,,1733026.033425926,gsfc_master,,LE_0032_10_07,LE,,False,,,,0,0,0,0,,,
+,,,,,,,LE_0033-04-03_Partial,,,True,TOPO,,,0,0,0,0,,,
+,julian,,,1734237.1788888888,gsfc_master,,LE_0036_01_31,LE,,False,,,,0,0,0,0,,,
+,julian,,,1740822.5289814814,gsfc_master,,LE_0054_02_11,LE,,False,,,,0,0,0,0,,,
+,julian,,,1740999.6922800925,gsfc_master,,LE_0054_08_07,LE,,False,,,,0,0,0,0,,,
+,julian,,,1752782.1110185185,gsfc_master,,LE_0086_11_09,LE,,False,,,,0,0,0,0,,,
+,julian,,,1755558.5766087964,gsfc_master,,LE_0094_06_17,LE,,False,,,,0,0,0,0,,,
+,julian,,,1763530.9534027777,gsfc_master,,LE_0116_04_14,LE,,False,,,,0,0,0,0,,,
+,julian,,,1785885.8970601852,gsfc_master,,LE_0177_06_28,LE,,False,,,,0,0,0,0,,,
+,,,,,,,SE_-0584-05-28_Thales,,,True,TOPO,,,0,0,0,0,,,
+-213766.40107999998,,,3.333465429022908e-06,1507900.09892,master_validated,,SE_-0584_Thales,,Total Solar Eclipse — 28 May 585 BCE (Thales),False,,WARN,NA,0,0,30,0,,,
+,,,,,,,SE_-0762-06-15_Assyrian,,,True,TOPO,,,0,0,0,0,,,
+-278763.65693000006,,,-1.759268343448639e-06,1442902.84307,master_validated,,SE_-0762_BurSagale,,Total Solar Eclipse — 15 Jun 763 BCE (Bur‑Sagale),False,,WARN,NA,0,0,30,0,,,
+,julian,,,1769422.8633101853,gsfc_master,,SE_0132_06_01,SE,,False,,,,0,0,0,0,,,
+,julian,,,2096798.8179398149,gsfc_master,,SE_1028_09_21,SE,,False,,,,0,0,0,0,,,
+,julian,,,2098009.9655787037,gsfc_master,,SE_1032_01_15,SE,,False,,,,0,0,0,0,,,
+,,,,,,,SE_1066-03-28_Annular,,,True,TOPO,,,0,0,0,0,,,
+,julian,,,2110501.1399305556,gsfc_master,,SE_1066_03_28,SE,,False,,,,0,0,0,0,,,
+388960.0,,,0.0,2110626.5,master_validated,,SE_1066_08_01,,Solar eclipse — 01 Aug 1066 (Europe) — date‑only,False,,OK,WARN,0,0,30,0,,,
+,julian,,,2111180.689976852,gsfc_master,,SE_1068_02_06,SE,,False,,,,0,0,0,0,,,
+,julian,,,2112391.483738426,gsfc_master,,SE_1071_05_31,SE,,False,,,,0,0,0,0,,,
+,julian,,,,,,SN_1006_FirstObs,SN,,True,TOPO,,,0,0,0,0,,,
+366953.0,,,0.0,2088619.5,master_validated,,SN_1006_first,,SN 1006 — first sighting in records — 1 May 1006,False,,OK,NA,0,0,0,0,,,
+430969.0,,,0.0,2152635.5,master_validated,,SN_1181_first,,"SN 1181 — first sightings (date-only, window early Aug)",False,,OK,WARN,0,0,0,0,,,
+573879.0,,,0.0,2295545.5,master_validated,,SN_1572_Tycho,,SN 1572 (Tycho) — first report (date-only),False,,OK,WARN,0,0,0,0,,,
+585524.0,,,0.0,2307190.5,master_validated,,SN_1604_Kepler,,SN 1604 (Kepler) — first report (date-only),False,,OK,WARN,0,0,0,0,,,
+,julian,,,1507900.0989166666,gsfc_master,,ThalesEclipse,SE,,False,,,,0,0,0,0,,,
+-207270.0,,,0.0,1514396.5,master_validated,,VAT4956_aurora,,VAT 4956 — auroral ‘red glow’ observation — 12 Mar 567 BCE,False,,OK,NA,0,0,0,0,,,
+,julian,,,,,,VAT_4956,TABLET,,False,,,,0,0,0,0,,,
+,julian,-1612-01-01,,1132275.0,volcano,,VOLC-0001,volcano,Santorini (Thera) — Minoan eruption,False,,,,0,0,0,0,range_midpoint,Santorini (Thera) — Minoan eruption,6–7 (est.)
+,julian,+0079-08-24,,1750148.0,volcano,,VOLC-0002A,volcano,Vesuvius 79 CE — candidate Aug 24 (Julian),False,,,,0,0,0,0,exact,Vesuvius 79 CE — candidate Aug 24 (Julian),5
+,julian,+0079-10-24,,1750209.0,volcano,,VOLC-0002B,volcano,Vesuvius 79 CE — candidate Oct 24 (Julian),False,,,,0,0,0,0,exact,Vesuvius 79 CE — candidate Oct 24 (Julian),5
+,julian,+1257-09-15,,2180435.0,volcano,,VOLC-0003,volcano,Samalas (Rinjani) 1257,False,,,,0,0,0,0,range_midpoint,Samalas (Rinjani) 1257,7 (est.)
+,gregorian,+1815-04-11,,2384074.5,volcano,,VOLC-0004,volcano,Tambora 1815 (climactic),False,,,,0,0,0,0,range_midpoint,Tambora 1815 (climactic),7
+,gregorian,+1783-06-08,,2372446.0,volcano,,VOLC-0005,volcano,Laki (Skaftár Fires) start,False,,,,0,0,0,0,exact,Laki (Skaftár Fires) start,6 (fissure)
+,gregorian,+1600-02-19,,2305497.0,volcano,,VOLC-0006,volcano,Huaynaputina 1600,False,,,,0,0,0,0,exact,Huaynaputina 1600,6
+,julian,+0946-11-16,,2066903.5,volcano,,VOLC-0007,volcano,Changbaishan / Paektu (Millennium eruption),False,,,,0,0,0,0,range_midpoint,Changbaishan / Paektu (Millennium eruption),6–7
+,julian,+0940-01-16,,2064407.5,volcano,,VOLC-0008,volcano,Eldgjá fissure eruption,False,,,,0,0,0,0,range_midpoint,Eldgjá fissure eruption,6 (fissure)
+,julian,-0042-04-01,,1705808.0,volcano,,VOLC-0009,volcano,Okmok II (Aleutians),False,,,,0,0,0,0,range_midpoint,Okmok II (Aleutians),6 (est.)
+,julian,+1104-10-16,,2124583.0,volcano,,VOLC-0010,volcano,Hekla 1104 (historical),False,,,,0,0,0,0,range_midpoint,Hekla 1104 (historical),5 (est.)
+,julian,+0431-07-03,,1878663.5,volcano,,VOLC-0011,volcano,Ilopango (TBJ) ~431 CE,False,,,,0,0,0,0,range_midpoint,Ilopango (TBJ) ~431 CE,6
+,gregorian,+1883-08-27,,2409050.0,volcano,,VOLC-0012,volcano,Krakatoa 1883 (climax day),False,,,,0,0,0,0,exact,Krakatoa 1883 (climax day),6
+,gregorian,+2022-01-15,,2459594.6708333334,volcano,,VOLC-0013,volcano,Hunga Tonga–Hunga Ha'apai 2022,False,,,,0,0,0,0,exact,Hunga Tonga–Hunga Ha'apai 2022,5+

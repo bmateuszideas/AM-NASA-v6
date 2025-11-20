@@ -1,0 +1,31 @@
+site_name,country,lat_deg,lon_deg,elev_m
+Jerusalem,Israel/Palestine,31.78,35.23,800
+Rome,Italy,41.9,12.5,20
+Alexandria,Egypt,31.2,29.92,5
+Cairo (Fustat),Egypt,30.03,31.23,23
+Athens,Greece,37.98,23.72,70
+Constantinople (Istanbul),Turkey,41.01,28.97,40
+Antioch (Antakya),Turkey,36.2,36.16,80
+Damascus,Syria,33.51,36.29,680
+Babylon (Hillah),Iraq,32.54,44.42,30
+Nineveh (Mosul),Iraq,36.35,43.15,220
+Uruk (Warka),Iraq,31.32,45.64,20
+Nippur (Nuffar),Iraq,32.12,45.23,20
+Persepolis (Takht-e Jamshid),Iran,29.94,52.89,1620
+Isfahan,Iran,32.65,51.67,1575
+Ujjain,India,23.18,75.78,500
+Pataliputra (Patna),India,25.61,85.14,53
+Taxila,Pakistan,33.74,72.84,549
+Samarkand,Uzbekistan,39.65,66.96,702
+Bukhara,Uzbekistan,39.77,64.43,220
+Merv (Mary),Turkmenistan,37.66,62.18,93
+Chang'an (Xi'an),China,34.34,108.94,405
+Luoyang,China,34.62,112.45,144
+Kaifeng,China,34.8,114.31,73
+Nanjing,China,32.06,118.79,20
+Beijing,China,39.9,116.4,43
+Kyoto (Heian-kyō),Japan,35.01,135.77,50
+Córdoba,Spain,37.88,-4.78,106
+Toledo,Spain,39.86,-4.03,529
+Paris,France,48.86,2.35,35
+London,United Kingdom,51.51,-0.13,25

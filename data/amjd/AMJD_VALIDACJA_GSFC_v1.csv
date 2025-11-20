@@ -1,0 +1,6 @@
+key,label,calendar,julian_date,TT_time,UT_time,ΔT_s,JD_TT,JD_UT,UT_julian_calendar_date,notes
+E1_4BCE_LunarEcl,Lunar eclipse (partial) — 13 Mar 4 BCE (astronomical year −0003),Julian,-0003-03-13,03:37:06,00:41:04.000,10562.0,1720033.65076,1720033.52852,-0003-03-13,GSFC Five Millennium Catalog row −0003‑03‑13 with ΔT=10562 s (TT of greatest eclipse).
+E2_32CE_LunarEcl,Lunar eclipse (total) — 14 Apr 32 CE,Julian,0032-04-14,11:56:36,09:06:24.000,10212.0,1732849.99764,1732849.87944,0032-04-14,GSFC 0001–0100 catalog row 0032‑04‑14 with ΔT=10212 s (TT of greatest eclipse).
+E3_33CE_LunarEcl,Lunar eclipse (partial) — 3 Apr 33 CE,Julian,0033-04-03,17:37:53,14:47:51.000,10202.0,1733204.23464,1733204.11656,0033-04-03,GSFC 0001–0100 catalog row 0033‑04‑03 with ΔT=10202 s (TT of greatest eclipse).
+E4_Halley66CE,Halley’s Comet — perihelion AD 66 (historical reconstructions),Julian,0066-01-26,,,,,,,Perihelion epoch uncertain pre‑837; Holetschek set T≈66 Jan 26.5; Kiang (1972) discusses range (Jan 26.5 to early Feb).
+E5_SN1054,SN 1054 (Crab) — first sighting in Chinese records,Julian,1054-07-04,,,,,,,Exact time-of-day not preserved; provide date only.

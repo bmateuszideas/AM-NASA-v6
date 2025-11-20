@@ -1,0 +1,29 @@
+key,label,JD_UT,JD_from_calendar,delta_JD_days,status_JD,AM_expected,AM_from_code_adjusted,delta_AM_days,status_AM
+E1_4BCE_LunarEcl,Lunar eclipse (partial) — 13 Mar 4 BCE (astronomical year −0003),1720033.52852,,,NA,,,,NA
+E2_32CE_LunarEcl,Lunar eclipse (total) — 14 Apr 32 CE,1732849.87944,,,NA,,,,NA
+E3_33CE_LunarEcl,Lunar eclipse (partial) — 3 Apr 33 CE,1733204.11656,,,NA,,,,NA
+E4_Halley66CE,Halley’s Comet — perihelion AD 66 (historical reconstructions),,,,NA,,,,NA
+E5_SN1054,SN 1054 (Crab) — first sighting in Chinese records,,,,NA,,,,NA
+SE_-0762_BurSagale,Total Solar Eclipse — 15 Jun 763 BCE (Bur‑Sagale),1442902.84307,,,NA,-278763.6569282408,-278763.65693000006,-1.759268343448639e-06,WARN
+SE_-0584_Thales,Total Solar Eclipse — 28 May 585 BCE (Thales),1507900.09892,,,NA,-213766.40108333345,-213766.40107999998,3.333465429022908e-06,WARN
+HALLEY_-0011_peri,1P/Halley — perihelion (date-only) — 5 Oct 12 BCE,1717317.5,,,NA,-4349.0,-4349.0,0.0,OK
+HALLEY_1066_peri,1P/Halley — perihelion (date-only) — 23 Mar 1066,2110495.5,,,NA,388829.0,388829.0,0.0,OK
+SN_1006_first,SN 1006 — first sighting in records — 1 May 1006,2088619.5,,,NA,366953.0,366953.0,0.0,OK
+VAT4956_aurora,VAT 4956 — auroral ‘red glow’ observation — 12 Mar 567 BCE,1514396.5,,,NA,-207270.0,-207270.0,0.0,OK
+SN_1181_first,"SN 1181 — first sightings (date-only, window early Aug)",2152635.5,2152636.5,1.0,WARN,430969.0,430969.0,0.0,OK
+SN_1572_Tycho,SN 1572 (Tycho) — first report (date-only),2295545.5,2295546.5,1.0,WARN,573879.0,573879.0,0.0,OK
+SN_1604_Kepler,SN 1604 (Kepler) — first report (date-only),2307190.5,2307191.5,1.0,WARN,585524.0,585524.0,0.0,OK
+HALLEY_-0239_midyear,1P/Halley — earliest Shiji record (year-only; mid‑year placeholder),1633944.5,1633945.5,1.0,WARN,-87722.0,-87722.0,0.0,OK
+HALLEY_837_midyear,1P/Halley — apparition year 837 (year‑only; mid‑year placeholder),2026953.5,2026954.5,1.0,WARN,305287.0,305287.0,0.0,OK
+HALLEY_912_midyear,1P/Halley — apparition year 912 (year‑only; mid‑year placeholder),2054347.5,2054348.5,1.0,WARN,332681.0,332681.0,0.0,OK
+HALLEY_989_midyear,1P/Halley — apparition year 989 (year‑only; mid‑year placeholder),2082471.5,2082472.5,1.0,WARN,360805.0,360805.0,0.0,OK
+HALLEY_1145_midyear,1P/Halley — apparition year 1145 (year‑only; mid‑year placeholder),2139450.5,2139451.5,1.0,WARN,417784.0,417784.0,0.0,OK
+HALLEY_1222_midyear,1P/Halley — apparition year 1222 (year‑only; mid‑year placeholder),2167574.5,2167575.5,1.0,WARN,445908.0,445908.0,0.0,OK
+HALLEY_1301_midyear,1P/Halley — apparition year 1301 (year‑only; mid‑year placeholder),2196429.5,2196430.5,1.0,WARN,474763.0,474763.0,0.0,OK
+HALLEY_1456_midyear,1P/Halley — apparition year 1456 (year‑only; mid‑year placeholder),2253043.5,2253044.5,1.0,WARN,531377.0,531377.0,0.0,OK
+HALLEY_1531_midyear,1P/Halley — apparition year 1531 (year‑only; mid‑year placeholder),2280436.5,2280437.5,1.0,WARN,558770.0,558770.0,0.0,OK
+HALLEY_1607_midyear,1P/Halley — apparition year 1607 (year‑only; mid‑year placeholder),2308195.5,2308196.5,1.0,WARN,586529.0,586529.0,0.0,OK
+HALLEY_1682_midyear,1P/Halley — apparition year 1682 (year‑only; mid‑year placeholder),2335589.5,2335590.5,1.0,WARN,613923.0,613923.0,0.0,OK
+HALLEY_1759_midyear,1P/Halley — apparition year 1759 (year‑only; mid‑year placeholder),2363713.5,2363714.5,1.0,WARN,642047.0,642047.0,0.0,OK
+LE_0000_01_10,Lunar eclipse — 10 Jan 1 BCE (astronomical year 0) — date‑only,1721066.5,1721067.5,1.0,WARN,-600.0,-600.0,0.0,OK
+SE_1066_08_01,Solar eclipse — 01 Aug 1066 (Europe) — date‑only,2110626.5,2110627.5,1.0,WARN,388960.0,388960.0,0.0,OK

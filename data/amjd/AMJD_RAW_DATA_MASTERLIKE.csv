@@ -1,0 +1,37 @@
+key,label,calendar,Y,M,D,UT_time,JD_UT_src,JD_UT_calc,delta_JD_days,status_JD,error,record_type,source_group,source_file,kind,TT_time,DeltaT_s,JD_TT,AM_day_float,AM_full,curve_name,calbp,cal_year,c14bp,error_bp,delta14C_permil,sigma_permil,site_name,country,lat_deg,lon_deg,elev_m,note,source_url
+,,,,,,,,,,NA,Brak daty (Y/M/D) – nie można policzyć JD,City,TOPO,AMJD_TOPO_30_CITIES.csv,,,,,,,,,,,,,,Jerusalem,Israel/Palestine,31.78,35.23,800,,
+,,,,,,,,,,NA,Brak daty (Y/M/D) – nie można policzyć JD,City,TOPO,AMJD_TOPO_30_CITIES.csv,,,,,,,,,,,,,,Rome,Italy,41.9,12.5,20,,
+,,,,,,,,,,NA,Brak daty (Y/M/D) – nie można policzyć JD,City,TOPO,AMJD_TOPO_30_CITIES.csv,,,,,,,,,,,,,,Alexandria,Egypt,31.2,29.92,5,,
+,,,,,,,,,,NA,Brak daty (Y/M/D) – nie można policzyć JD,City,TOPO,AMJD_TOPO_30_CITIES.csv,,,,,,,,,,,,,,Cairo (Fustat),Egypt,30.03,31.23,23,,
+,,,,,,,,,,NA,Brak daty (Y/M/D) – nie można policzyć JD,City,TOPO,AMJD_TOPO_30_CITIES.csv,,,,,,,,,,,,,,Athens,Greece,37.98,23.72,70,,
+,,,,,,,,,,NA,Brak daty (Y/M/D) – nie można policzyć JD,City,TOPO,AMJD_TOPO_30_CITIES.csv,,,,,,,,,,,,,,Constantinople (Istanbul),Turkey,41.01,28.97,40,,
+,,,,,,,,,,NA,Brak daty (Y/M/D) – nie można policzyć JD,City,TOPO,AMJD_TOPO_30_CITIES.csv,,,,,,,,,,,,,,Antioch (Antakya),Turkey,36.2,36.16,80,,
+,,,,,,,,,,NA,Brak daty (Y/M/D) – nie można policzyć JD,City,TOPO,AMJD_TOPO_30_CITIES.csv,,,,,,,,,,,,,,Damascus,Syria,33.51,36.29,680,,
+,,,,,,,,,,NA,Brak daty (Y/M/D) – nie można policzyć JD,City,TOPO,AMJD_TOPO_30_CITIES.csv,,,,,,,,,,,,,,Babylon (Hillah),Iraq,32.54,44.42,30,,
+,,,,,,,,,,NA,Brak daty (Y/M/D) – nie można policzyć JD,City,TOPO,AMJD_TOPO_30_CITIES.csv,,,,,,,,,,,,,,Nineveh (Mosul),Iraq,36.35,43.15,220,,
+,,,,,,,,,,NA,Brak daty (Y/M/D) – nie można policzyć JD,City,TOPO,AMJD_TOPO_30_CITIES.csv,,,,,,,,,,,,,,Uruk (Warka),Iraq,31.32,45.64,20,,
+,,,,,,,,,,NA,Brak daty (Y/M/D) – nie można policzyć JD,City,TOPO,AMJD_TOPO_30_CITIES.csv,,,,,,,,,,,,,,Nippur (Nuffar),Iraq,32.12,45.23,20,,
+,,,,,,,,,,NA,Brak daty (Y/M/D) – nie można policzyć JD,City,TOPO,AMJD_TOPO_30_CITIES.csv,,,,,,,,,,,,,,Persepolis (Takht-e Jamshid),Iran,29.94,52.89,1620,,
+,,,,,,,,,,NA,Brak daty (Y/M/D) – nie można policzyć JD,City,TOPO,AMJD_TOPO_30_CITIES.csv,,,,,,,,,,,,,,Isfahan,Iran,32.65,51.67,1575,,
+,,,,,,,,,,NA,Brak daty (Y/M/D) – nie można policzyć JD,City,TOPO,AMJD_TOPO_30_CITIES.csv,,,,,,,,,,,,,,Ujjain,India,23.18,75.78,500,,
+,,,,,,,,,,NA,Brak daty (Y/M/D) – nie można policzyć JD,City,TOPO,AMJD_TOPO_30_CITIES.csv,,,,,,,,,,,,,,Pataliputra (Patna),India,25.61,85.14,53,,
+,,,,,,,,,,NA,Brak daty (Y/M/D) – nie można policzyć JD,City,TOPO,AMJD_TOPO_30_CITIES.csv,,,,,,,,,,,,,,Taxila,Pakistan,33.74,72.84,549,,
+,,,,,,,,,,NA,Brak daty (Y/M/D) – nie można policzyć JD,City,TOPO,AMJD_TOPO_30_CITIES.csv,,,,,,,,,,,,,,Samarkand,Uzbekistan,39.65,66.96,702,,
+,,,,,,,,,,NA,Brak daty (Y/M/D) – nie można policzyć JD,City,TOPO,AMJD_TOPO_30_CITIES.csv,,,,,,,,,,,,,,Bukhara,Uzbekistan,39.77,64.43,220,,
+,,,,,,,,,,NA,Brak daty (Y/M/D) – nie można policzyć JD,City,TOPO,AMJD_TOPO_30_CITIES.csv,,,,,,,,,,,,,,Merv (Mary),Turkmenistan,37.66,62.18,93,,
+,,,,,,,,,,NA,Brak daty (Y/M/D) – nie można policzyć JD,City,TOPO,AMJD_TOPO_30_CITIES.csv,,,,,,,,,,,,,,Chang'an (Xi'an),China,34.34,108.94,405,,
+,,,,,,,,,,NA,Brak daty (Y/M/D) – nie można policzyć JD,City,TOPO,AMJD_TOPO_30_CITIES.csv,,,,,,,,,,,,,,Luoyang,China,34.62,112.45,144,,
+,,,,,,,,,,NA,Brak daty (Y/M/D) – nie można policzyć JD,City,TOPO,AMJD_TOPO_30_CITIES.csv,,,,,,,,,,,,,,Kaifeng,China,34.8,114.31,73,,
+,,,,,,,,,,NA,Brak daty (Y/M/D) – nie można policzyć JD,City,TOPO,AMJD_TOPO_30_CITIES.csv,,,,,,,,,,,,,,Nanjing,China,32.06,118.79,20,,
+,,,,,,,,,,NA,Brak daty (Y/M/D) – nie można policzyć JD,City,TOPO,AMJD_TOPO_30_CITIES.csv,,,,,,,,,,,,,,Beijing,China,39.9,116.4,43,,
+,,,,,,,,,,NA,Brak daty (Y/M/D) – nie można policzyć JD,City,TOPO,AMJD_TOPO_30_CITIES.csv,,,,,,,,,,,,,,Kyoto (Heian-kyō),Japan,35.01,135.77,50,,
+,,,,,,,,,,NA,Brak daty (Y/M/D) – nie można policzyć JD,City,TOPO,AMJD_TOPO_30_CITIES.csv,,,,,,,,,,,,,,Córdoba,Spain,37.88,-4.78,106,,
+,,,,,,,,,,NA,Brak daty (Y/M/D) – nie można policzyć JD,City,TOPO,AMJD_TOPO_30_CITIES.csv,,,,,,,,,,,,,,Toledo,Spain,39.86,-4.03,529,,
+,,,,,,,,,,NA,Brak daty (Y/M/D) – nie można policzyć JD,City,TOPO,AMJD_TOPO_30_CITIES.csv,,,,,,,,,,,,,,Paris,France,48.86,2.35,35,,
+,,,,,,,,,,NA,Brak daty (Y/M/D) – nie można policzyć JD,City,TOPO,AMJD_TOPO_30_CITIES.csv,,,,,,,,,,,,,,London,United Kingdom,51.51,-0.13,25,,
+SE_-0762-06-15_Assyrian,SE_-0762-06-15_Assyrian,Julian,-762,6,15,08:14:01.4,,1442903.5,,NA,,EventAnchor,TOPO,AMJD_TOPO_EVENTS.csv,SE,14:07:32,21210.6,,,,,,,,,,,,,,,,"Total; GSFC gives TT, UT, ΔT",https://eclipse.gsfc.nasa.gov/SEhistory/SEplot/SE-0762Jun15T.pdf
+SE_-0584-05-28_Thales,SE_-0584-05-28_Thales,Julian,-584,5,28,14:22:26.4,,1507900.5,,NA,,EventAnchor,TOPO,AMJD_TOPO_EVENTS.csv,SE,19:28:50.3,,,,,,,,,,,,,,,,,Total; classical 'Thales',https://eclipse.gsfc.nasa.gov/SEhistory/SEplot/SE-0584May28T.pdf
+LE_0032-04-14_Total,LE_0032-04-14_Total,Julian,32,4,14,09:06:21,,1732850.5,,NA,,EventAnchor,TOPO,AMJD_TOPO_EVENTS.csv,LE,11:56:22,,,,,,,,,,,,,,,,,Total LE; greatest,https://www.eclipsewise.com/lunar/LEprime/0001-0100/LE0032Apr14Tprime.html
+LE_0033-04-03_Partial,LE_0033-04-03_Partial,Julian,33,4,3,14:47:51.1,,1733204.5,,NA,,EventAnchor,TOPO,AMJD_TOPO_EVENTS.csv,LE,17:37:53.1,,,,,,,,,,,,,,,,,Partial LE; greatest,https://eclipse.gsfc.nasa.gov/LEhistory/LEplot/LE0033Apr03P.pdf
+SE_1066-03-28_Annular,SE_1066-03-28_Annular,Julian,1066,3,28,15:21:30,,2110501.5,,NA,,EventAnchor,TOPO,AMJD_TOPO_EVENTS.csv,SE,15:41:57,1226.9,,,,,,,,,,,,,,,,Annular; ΔT from GSFC,https://eclipse.gsfc.nasa.gov/SEsearch/SEdata.php?Ecl=10660328
+SN_1006_FirstObs,SN_1006_FirstObs,Julian,1006,5,1,,,2088620.5,,NA,,EventAnchor,TOPO,AMJD_TOPO_EVENTS.csv,SN,,,,,,,,,,,,,,,,,,First sightings ~1006-05-01; use night scan,https://chandra.harvard.edu/photo/2013/sn1006/

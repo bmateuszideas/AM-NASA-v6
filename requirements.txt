@@ -1,0 +1,10 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+
+numpy>=1.26
+pandas>=2.0
+skyfield>=1.49
+jplephem>=2.21
+requests>=2.32
+
+pytest>=8.0
