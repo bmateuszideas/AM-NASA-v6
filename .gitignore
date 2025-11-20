@@ -38,3 +38,7 @@ Thumbs.db
 # Local env files
 .env
 .env.*
+
+# Ephemeris / large binary data
+data/ephemeris/
+*.bsp
